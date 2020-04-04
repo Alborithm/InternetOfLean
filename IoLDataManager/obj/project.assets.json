@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IoLDataManager.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IoLDataManager.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IoLDataManager.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoLDataManager.Library/1.0.0": {
+      "type": "project",
+      "path": "../IoLDataManager.Library/IoLDataManager.Library.csproj",
+      "msbuildProject": "../IoLDataManager.Library/IoLDataManager.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IoLDataManager.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/gerardoalbor/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager/IoLDataManager.csproj",
+      "projectName": "IoLDataManager",
+      "projectPath": "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager/IoLDataManager.csproj",
+      "packagesPath": "/Users/gerardoalbor/.nuget/packages/",
+      "outputPath": "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/gerardoalbor/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/IoLDataManager.Library.csproj": {
+              "projectPath": "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/IoLDataManager.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

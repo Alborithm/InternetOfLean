@@ -1,0 +1,9 @@
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/bin/Debug/netstandard2.0/IoLDataManager.Library.deps.json
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/bin/Debug/netstandard2.0/IoLDataManager.Library.dll
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/bin/Debug/netstandard2.0/IoLDataManager.Library.pdb
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.csprojAssemblyReference.cache
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.csproj.CoreCompileInputs.cache
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.AssemblyInfoInputs.cache
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.AssemblyInfo.cs
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.dll
+/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/obj/Debug/netstandard2.0/IoLDataManager.Library.pdb

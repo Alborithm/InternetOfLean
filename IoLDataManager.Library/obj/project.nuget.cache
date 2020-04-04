@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zA7TmraEY/lHawigRbeW9MHg7JkhlsulHb5otFt9wDHS22ZxKwHubkPhVooKuri/BQCgK9BW+YQTkygEot5QQ==",
+  "success": true,
+  "projectFilePath": "/Users/gerardoalbor/Repositories/InternetOfLean/IoLDataManager.Library/IoLDataManager.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/gerardoalbor/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/gerardoalbor/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
